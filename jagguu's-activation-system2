@@ -1,1 +1,134 @@
+[
+  {
+  "key": "@AdminXJagguuhhhh6H2UPI1I",
+  "device_id": "e6c97ff82b64f04c",
+  "expirydate": "28-09-2026",
+  "Allowoffline": false
+},
+  {
+        "device_id": "e14f9b6373501056",
+        "key": "e14f9b6373501056#1",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+  {
+        "device_id": "d9fe845e16630a89",
+        "key": "d9fe845e16630a89#2",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+  {
+  "key": "@JAGGUU1",
+  "device_id": "e14f9b6373501056",
+  "expirydate": "28-12-2099",
+  "Allowoffline": false
+},
+  {
+  "key": "@JAGGUU2",
+  "device_id": "d9fe845e16630a89",
+  "expirydate": "28-12-2099",
+  "Allowoffline": false
+  },
 
+  {
+  "key": "@JAGGUU3",
+  "device_id": "fd21ba93d1bd04a3",
+  "expirydate": "28-12-2099",
+  "Allowoffline": false
+},
+{
+  "key": "@AdminXJagguuhhhhHTOXVXLI",
+  "device_id": "fd21ba93d1bd04a3",
+  "expirydate": "",
+  "Allowoffline": false
+},
+  {
+  "key": "D_X_J#d3a541652834b4d4",
+  "device_id": "d3a541652834b4d4",
+  "expirydate": "28-09-2026",
+  "Allowoffline": false
+},
+  {
+  "key": "D_X_J#9e0f5c960ae0a581",
+  "device_id": "9e0f5c960ae0a581",
+  "expirydate": "29-09-2026",
+  "Allowoffline": false
+},
+{
+        "device_id": "bu",
+        "key": "/iqqhzFG0zzXR/iyemIvPfGgMlfk3NFtR17US2tuk+cBcBjjKCX33NYRi+ti0Vlazh8HKcFu44PoPq/8umZgeOyruAeyjCcMEDaVi012utcYJXIaVG/HAKUTyiaGyYjc3Hq0U6JrvPtv",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+  
+  {
+          "device_id": "Everyone",
+        "key": "",
+        "expirydate": "15-05-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "show activation dialog",
+        "key": "e6c97ff82b64f04c,d9fe845e16630a89",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+
+  {
+        "device_id": "AdminUrl",
+        "key": "https://t.me/DEVELOPER_X_JAGGUU",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "Name",
+        "key": "@DEVELOPER_X_JAGGUU",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "tg",
+        "key": "https://t.me/DEVELOPER_X_JAGGUU",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    
+    {
+        "device_id": "Show button",
+        "key": "everyone",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "Common Buttons",
+        "key": "everyone",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "Sayari",
+        "key": "शेट्ट उपटे भारे बांधे !",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "Sayari2",
+        "key": "गद्दार च्या मायची गांड...!",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+  
+
+{
+  "device_id": "Url",
+  "key": "91 Club:https://chennai91.com/#/login,55 Club:https://chennai91.com/#/login,In999:https://chennai91.com/#/login,Lottery7:https://chennai91.com/#/login,JaiClub:https://chennai91.com/#/login,Jalwa:https://chennai91.com/#/login,OkWin:https://chennai91.com/#/login,51Game:https://chennai91.com/#/login,YaarWin:https://chennai91.com/#/login,6Club:https://chennai91.com/#/login,Bdg Win:https://chennai91.com/#/login,Bdg Game:https://chennai91.com/#/login,Raja Game:https://chennai91.com/#/login",
+  "expirydate": "31-12-2099",
+  "Allowoffline": false
+    },
+    {
+        "device_id": "allowDevice",
+        "key": "everyone",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    }
+]
